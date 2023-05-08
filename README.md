@@ -1,5 +1,7 @@
 ### 창업 팀 Expands(가칭) 소속
 ### 소프트큐브 대표(예정)
+코딩한다고 하다보니 맨날 이상한것만 만드는 기분인데 뭐 어쩌겠어요.,
+
 
 <!--
 **reproduce0529/reproduce0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
