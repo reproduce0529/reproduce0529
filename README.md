@@ -1,5 +1,5 @@
-### 창업 팀 Expand 소속 풀스택 개발자
-### 소프트큐브 대표(예정)
+### 주식회사 Expand 소속 풀스택 개발자
+
 코딩한다고 하다보니 맨날 이상한것만 만드는 기분인데 뭐 어쩌겠어요.,
 
 
@@ -17,10 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://www.instagram.com/imnow._.05/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=instagram&logo=로고&logoColor=#E4405F"/></a>
 포트폴리오 주소 : http://portliojh.dothome.co.kr/
-
-
-![002](https://user-images.githubusercontent.com/102637176/233349105-5653bbcc-11f9-41ab-b51c-ce7fee49e7d7.png)
-<br />
-![003](https://user-images.githubusercontent.com/102637176/233349111-7d9f4bc8-f918-4171-afd7-38b31106a64c.png)
